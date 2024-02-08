@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # # RFM Analysis of Retail Customers
 
 # In[16]:
